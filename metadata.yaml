@@ -1,0 +1,29 @@
+_repo: The-numerical-strength-of-the-Confederate-armyAdams-and-others_34334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKim, Randolph H. (Randolph Harrison)
+    alias: McKim, Randolph Harrison
+    birthdate: 1842
+    deathdate: 1920
+    gutenberg_agent_id: '36960'
+    url: http://www.gutenberg.org/2009/agents/36960
+description: ''
+gutenberg_issued: '2010-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34334'
+  lccn: '12029314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army'
+title: "The Numerical Strength of the Confederate Army\r\nAn examination of the argument\
+  \ of the Hon. Charles Francis Adams and others"
+url: http://www.gutenberg.org/ebooks/34334
